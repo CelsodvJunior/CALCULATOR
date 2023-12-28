@@ -1,9 +1,14 @@
+import Input from "./components/input/Input";
+import Button from "./components/button/Button";
+
 import { Container, Content } from "./style";
+
 function App() {
   return (
     <Container>
       <Content>
-        <h1>Testing...</h1>
+        <Input />
+        <Button />
       </Content>
     </Container>
   );
