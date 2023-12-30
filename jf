@@ -1,0 +1,23 @@
+[33mcommit a3cb53aa3e71036eeffd609bd28eea8a2f94eb01[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: celso junior <celso_scjj@hotmail.com>
+Date:   Thu Dec 28 16:27:52 2023 -0300
+
+     Created the main buttons
+
+[33mcommit 4da45b3822fe3a5cef7fb3247f38f805b4d05bb1[m
+Author: celso junior <celso_scjj@hotmail.com>
+Date:   Thu Dec 28 14:41:01 2023 -0300
+
+    Created the first stylization of input
+
+[33mcommit efa56491e0fad9182a7f2e7fdeb974592bdd73f0[m
+Author: celso junior <celso_scjj@hotmail.com>
+Date:   Thu Dec 28 14:18:16 2023 -0300
+
+    Creating components and global style
+
+[33mcommit 7dadf9ffe26633c28bdf49b798c6cec1d89d2b21[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: celso junior <celso_scjj@hotmail.com>
+Date:   Wed Dec 27 23:13:26 2023 -0300
+
+    Creating calculator project
